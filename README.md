@@ -26,3 +26,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil-ux&show_icons=true&locale=en" alt="akhil-ux" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-ux&" alt="akhil-ux" /></p>
+<img src="https://raw.githubusercontent.com/akhil-ux/akhil-ux/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
