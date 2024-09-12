@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhil Tiwari</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">4th Year CSE Undergrad || A passionate Web developer|| Always have a will to learn and explore something new</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-ux&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-ux" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil-ux" alt="akhil-ux" /></a> </p>
 
@@ -10,6 +12,8 @@
 - 💬 Ask me about **HTML,CSS,JS,React**
 
 - 📫 How to reach me **akhiltiwaribnsd19@gmail.com**
+
+- 📄 Know about my experiences [https://akhiltiwariresume.tiiny.site](https://akhiltiwariresume.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,15 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhil-ux&show_icons=true&locale=en&layout=compact" alt="akhil-ux" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil-ux&show_icons=true&locale=en" alt="akhil-ux" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil-ux&show_icons=true&theme=tokyonight&locale=en" alt="akhil-ux" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-ux&" alt="akhil-ux" /></p>
-<img src="https://raw.githubusercontent.com/akhil-ux/akhil-ux/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
