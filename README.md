@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhil Tiwari</h1>
-<h3 align="center">4th Year CSE Undergrad || A passionate Web developer|| Always have a will to learn and explore something new</h3>
+<h3 align="center">4a final-year CSE student and a web development enthusiast with a relentless passion for learning and exploring new ideas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-ux&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-ux" /> </p>
 
